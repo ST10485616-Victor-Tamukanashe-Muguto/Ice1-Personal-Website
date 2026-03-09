@@ -1,0 +1,24 @@
+p{
+    font-style: italic;
+    padding: 10px;
+    background-color: rgb(107, 203, 205);
+}
+
+body{
+    background-color: rgb(73, 134, 214);
+}
+
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid rgb(14, 44, 78);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+ul{
+    list-style-type: square;
+    padding: 20px;
+}
+
